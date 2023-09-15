@@ -61,6 +61,7 @@ public class animal {
         this.cor = cor;
         this.ambiente = ambiente;
         this.velocidadeMedia = velocidadeMedia;
+        //teste de commit
 
     }
 }
